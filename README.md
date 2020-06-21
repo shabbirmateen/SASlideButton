@@ -29,13 +29,14 @@ Clone the repo and drag files from SASlideButton/Source folder into your Xcode p
 **.resetButton()**:Moved spinner of button to initial position
 
 **.didButtonCalled**: Gets executed after the Button swipe from left to right
+
  `saSlideButton.didButtonCalled = { tag in
             print("button pressed with tag \(tag)")
              }`
 ### **Requirements**
-*iOS 11+
+<iOS 11+
 
-*Xcode 11+
+<Xcode 11+
 
 ### **License**
 
