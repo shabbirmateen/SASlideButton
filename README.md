@@ -11,15 +11,16 @@ Clone the repo and drag files from SASlideButton/Source folder into your Xcode p
 
 ### **Usage**
 1.Take UIView and set parent class as SASlideButton.
+
 2.Create object of SASlideButton
 
 ### **Code**
-`saSlideButton.titleLabel.text = "Button"
-saSlideButton.titleLabel.textColor = .blue
-saSlideButton.tag = 0
-saSlideButton.backgroundColor = .yellow
+`saSlideButton.titleLabel.text = "Button"`
+`saSlideButton.titleLabel.textColor = .blue`
+`saSlideButton.tag = 0`
+`saSlideButton.backgroundColor = .yellow`
 
-saSlideButton.spinner.backgroundColor = .white`
+`saSlideButton.spinner.backgroundColor = .white`
 
 ### **Methods**
 **.resetButton()**:Moved spinner of button to initial position
@@ -28,7 +29,11 @@ saSlideButton.spinner.backgroundColor = .white`
             print("button pressed with tag \(tag)")
              }`
 ### **Requirements**
-iOS 11+
-Xcode 11+
+>iOS 11+
+
+>Xcode 11+
 
 ### **License**
+
+Copyright © 2020 Shabbir. All rights reserved.
+
