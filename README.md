@@ -34,9 +34,9 @@ Clone the repo and drag files from SASlideButton/Source folder into your Xcode p
             print("button pressed with tag \(tag)")
              }`
 ### **Requirements**
-<iOS 11+
+- iOS 11+
 
-<Xcode 11+
+- Xcode 11+
 
 ### **License**
 
