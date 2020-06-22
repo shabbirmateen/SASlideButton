@@ -31,7 +31,9 @@ Clone the repo and drag files from SASlideButton/Source folder into your Xcode p
 **.didButtonCalled**: Gets executed after the Button swipe from left to right
 
  `saSlideButton.didButtonCalled = { tag in
+ 
             print("button pressed with tag \(tag)")
+            
              }`
 ### **Requirements**
 - iOS 11+
