@@ -35,7 +35,6 @@ Clone the repo and drag files from SASlideButton/Source folder into your Xcode p
 `saSlideButton.didButtonCalled = { tag in
  
             print("button pressed with tag \(tag)")
-            
          }`
          
 ### **Requirements**
