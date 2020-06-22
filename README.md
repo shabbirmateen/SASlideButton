@@ -28,7 +28,7 @@ Clone the repo and drag files from SASlideButton/Source folder into your Xcode p
 ### **Methods**
 **.resetButton()**:Moved spinner of button to initial position
 
-`saSlideButton..resetButton()`
+`saSlideButton.resetButton()`
 
 **.didButtonCalled**: Gets executed after the Button swipe from left to right
 
